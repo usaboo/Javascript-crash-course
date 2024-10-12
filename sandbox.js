@@ -6,5 +6,6 @@ console.log(age, year);
 const age2 = 45;
 console.log(age2);
 
-
+console.log(true)
+console.log(false)
 

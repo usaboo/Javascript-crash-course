@@ -83,3 +83,8 @@ console.log(items)
 let result9 = items.pop()
 console.log(result9)
 
+//boolean
+console.log(true)
+console.log(false)
+
+
